@@ -25,6 +25,7 @@ Smart City Planners and Government Agencies.
 The dataset falls under the Urban Development and Smart City Technology industry, focusing on the interaction between citizens and their environment within a smart city.
 
 **PROBLEMS BEING ADDRESSED**
+
 These are the potential questions derived from the pre-analysis phase to guide and identify areas for deeper exploration.
 
 1. What is the relationship between age groups and total steps walked?
@@ -40,19 +41,19 @@ These are the potential questions derived from the pre-analysis phase to guide a
 
 **Key Performance Metrics**
 
-The female gender has the highest home energy consumption with a total energy of 2900.85kWh consumed. 
-The gender labeled others has the least home energy consumption with a total of 226.24kWh energy consumed. 
-The age group that burned the most average calories are the ages between 68-77 burning an average calorie of 862.35.
-The age group 18-27 burned the least average calories with a total average calorie of 799.56 burned. 
-Among the different modes of transportation, Cars have the highest average carbon footprint of 55.88kgCO2.
-Bikes have the least average carbon footprint of 53.02kgCO2 among the various modes of transportation. 
-The gender labeled others spend the most average hours daily on social media, spending an average of 3.46 hours daily. 
-The female gender spends the least average hours daily on social media, spending an average of 2.94 hours daily on social media. 
-The age group 28-37 walked the most steps with an average of 10,853 steps. 
-The age group 18-27 walked the least steps with an average of 10,210 steps. 
-Citizens that walk as their mode of transport burns the most calories with a total of 162,922 calories burned.
-Citizens that ride bicycles as their mode of transport burns the least calories with a total of 125,793 calories burned. 
-Across the various genders, the average sleep hours have the most time allocation, followed by the average work hours. The average entertainment hours have the least time allocation across the various genders.
+1. The female gender has the highest home energy consumption with a total energy of 2900.85kWh consumed. 
+2. The gender labeled others has the least home energy consumption with a total of 226.24kWh energy consumed. 
+3. The age group that burned the most average calories are the ages between 68-77 burning an average calorie of 862.35.
+4.The age group 18-27 burned the least average calories with a total average calorie of 799.56 burned. 
+5. Among the different modes of transportation, Cars have the highest average carbon footprint of 55.88kgCO2.
+6. Bikes have the least average carbon footprint of 53.02kgCO2 among the various modes of transportation. 
+7. The gender labeled others spend the most average hours daily on social media, spending an average of 3.46 hours daily. 
+8. The female gender spends the least average hours daily on social media, spending an average of 2.94 hours daily on social media. 
+9. The age group 28-37 walked the most steps with an average of 10,853 steps. 
+10. The age group 18-27 walked the least steps with an average of 10,210 steps. 
+11. Citizens that walk as their mode of transport burns the most calories with a total of 162,922 calories burned.
+12. Citizens that ride bicycles as their mode of transport burns the least calories with a total of 125,793 calories burned. 
+13. Across the various genders, the average sleep hours have the most time allocation, followed by the average work hours. The average entertainment hours have the least time allocation across the various genders.
 
  
 
