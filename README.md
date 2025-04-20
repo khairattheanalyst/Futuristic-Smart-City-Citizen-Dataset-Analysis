@@ -44,7 +44,7 @@ These are the potential questions derived from the pre-analysis phase to guide a
 1. The female gender has the highest home energy consumption with a total energy of 2900.85kWh consumed. 
 2. The gender labeled others has the least home energy consumption with a total of 226.24kWh energy consumed. 
 3. The age group that burned the most average calories are the ages between 68-77 burning an average calorie of 862.35.
-4.The age group 18-27 burned the least average calories with a total average calorie of 799.56 burned. 
+4. The age group 18-27 burned the least average calories with a total average calorie of 799.56 burned. 
 5. Among the different modes of transportation, Cars have the highest average carbon footprint of 55.88kgCO2.
 6. Bikes have the least average carbon footprint of 53.02kgCO2 among the various modes of transportation. 
 7. The gender labeled others spend the most average hours daily on social media, spending an average of 3.46 hours daily. 
