@@ -1,4 +1,7 @@
+![Futuristic Smart City Citizen Dashboard](https://github.com/user-attachments/assets/79b60d77-43df-44f8-a5be-8a6995c1ff0e)
+
 **INTRODUCTION**
+
 The aim of this project is to understand how people live, move, and interact in a smart city by analyzing their daily habits. The goal is to help city planners and government agencies make better decisions that improve sustainability, efficiency, and quality of life for everyone.
 
 **Dataset Used:** The dataset used for this analysis is the Futuristic Smart City Citizen Activity Dataset, designed to capture how citizens interact with their urban environment. It includes detailed information on citizen's behavior related to mobility, energy consumption, health, digital engagement, and lifestyle habits.
@@ -6,7 +9,6 @@ The aim of this project is to understand how people live, move, and interact in 
 **Data Limitations or Biases:** The dataset has some limitations that may impact the analysis. It consists of simulated data, which may not accurately reflect real-world behaviors or regional differences in a city environment. Additionally, certain key variables, such as income levels or specific local policies, are not included, which could affect factors like energy consumption or transportation choices.
 
 **STEPS TAKEN TO CLEAN THE DATA**
-
 1. I observed the dataset and removed duplicate entries to ensure the data contained only unique values and accurate information.
 2. I reviewed the column headers to ensure consistency in naming and formatting, making sure there were no discrepancies. 
 3. I checked for any null or blank values and handled them appropriately, either by removing or adjusting the data entries where necessary. I also deleted empty rows within the dataset to keep the data clean and focused only on valid entries.
